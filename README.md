@@ -1,4 +1,4 @@
-# BnaglaTTS
+# BanglaTTS
 BanglaTTS is a text-to-speech (TTS) system for Bangla language that works in offline mode. You can convert text to speech in male or female voice.
 
 ## Features
