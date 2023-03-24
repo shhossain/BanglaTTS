@@ -7,7 +7,7 @@ with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 
 name = 'BanglaTTS'
-author = 'Sifat (shhossain)'
+author = 'sifat (shhossain)'
 email = '<hossain@gmail.com>'
 
 with open('requirements.txt') as f:
@@ -57,6 +57,4 @@ setup(
     keywords=keywords,
     classifiers=classifiers,
     python_requires='>=3.6',
-    include_package_data=True,
-    zip_safe=False,
 )
