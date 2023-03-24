@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '0.0.2'
+version = '0.0.3'
 description = 'An open-source offline text-to-speech package for Bangla language. Convert text to speech in male or female voice.'
 
 with open('README.md', encoding='utf-8') as f:
